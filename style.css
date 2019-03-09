@@ -105,3 +105,19 @@ h1 {
 	text-align: center;
 }
 
+
+a:link {
+  color: white;
+text-decoration: none
+}
+
+/* visited link */
+a:visited {
+  color: grey;
+}
+
+/* mouse over link */
+a:hover {
+  color: grey;
+}
+
